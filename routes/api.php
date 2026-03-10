@@ -6,5 +6,5 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', function () {
-    return 'Hello!';
+    return 'Hello Onmuppy API!';
 });
